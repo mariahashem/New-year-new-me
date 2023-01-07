@@ -30,3 +30,32 @@
     padding: 10px 20px;
     border-radius: 5px;
 }
+.contentBanner{
+    display: flex;
+    align-items: center;
+    justify-content:space-around ;
+    
+}
+.contentDiscription{
+    margin-left: 60px;
+    
+}
+.paragraph{
+    margin-top: 15px; 
+    margin-bottom: 15px;
+    color: #444343;
+}
+ul li{
+    color: #444343;
+}
+.secondTitle{
+    font-size:  35px; 
+    text-align: center;
+    margin-top: 30px;
+}
+.iconsContainer{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 50px;
+}
