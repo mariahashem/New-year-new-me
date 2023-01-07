@@ -83,5 +83,19 @@ ul li{
     color: white;
     
 }
+footer{
+    display: flex;
+    align-items: center;
+    background-color:black;
+    padding: 35px;
+    color: white;
+    justify-content: space-around;
+}
+.emailInput{
+    padding:15px 20px;
+    border-radius: 5px;
+    margin-top:10px ;
+}
+
 
 
