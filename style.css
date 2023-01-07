@@ -59,3 +59,29 @@ ul li{
     justify-content: space-around;
     margin-top: 50px;
 }
+.advertiseContainer{
+    display: block;
+    margin: auto;
+    width:550px ;
+    margin-top: 50px;
+}
+.advertise{
+    background-image: linear-gradient(to right,rgba(0,0,0,0.75),rgba(0,0,0,0.25)),url(./images/watch.png);
+    height: 30vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: 50px;
+    object-fit: cover;
+   
+}
+.advertiseContain{
+    height:30vh ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+     align-items: center;
+    color: white;
+    
+}
+
+
